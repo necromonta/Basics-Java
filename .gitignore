@@ -1,0 +1,18 @@
+# NetBeans build files
+nbproject/private/
+build/
+dist/
+
+# Generic Java stuff
+*.class
+*.log
+
+# IDEs
+*.iml
+.idea/
+*.ipr
+*.iws
+
+# OS files
+.DS_Store
+Thumbs.db

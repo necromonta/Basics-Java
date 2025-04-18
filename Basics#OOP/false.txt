@@ -1,0 +1,10 @@
+Hawaii;true;3600;36;4.9
+Mexikoi;true;1200;36;2.7
+SonkasGombas;true;2100;36;4.6
+Sajtos;true;6200;40;3.2
+Gyros;false;5000;32;4.4
+Sonkas;false;2400;40;4.4
+Szalamis;true;4200;36;3.3
+Magyaros;false;3700;24;4
+Husimado;false;5600;40;3.9
+Mexikoi;false;5000;32;3.1
